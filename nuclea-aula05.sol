@@ -5,6 +5,7 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 */
 //* endereço do contrato: 0xdC6198Bc5c4e51eE5d482D51C909adb69018A4Ac
 
+
 pragma solidity 0.8.19;
 
 contract Aluguel {
